@@ -6,9 +6,11 @@ Tested up to: 3.3.1
 Stable tag: 0.8
 License: GPLv2 or later
 
-Converting all static shortcodes to their static representation at the moment of generation. Read the description for more information as this plugin could alter your database posts.
+Converting all static shortcodes to their static representation at the moment of generation. This plugin could alter your database posts.
 
 == Description ==
+
+**WARNING: This script alters the database content so use at your own responsibility! Backup your database first.**
 
 Shortcode Freezer. If you have a website with content based on shortcodes 
 and this content generates some static data (i.e. authors, pricing, buttons
@@ -19,7 +21,6 @@ Keep in mind that it would not work with dynamic listings that generate dynamic 
 
 You can switch themes without worrying about shortcode compatibility. Once the markup is generated and embedded into posts, your data would be visible and you can style the markup in the new theme.
 
-WARNING: This script alters the database content so use at your own responsibility! Backup your database first.
 
 
 == Installation ==
