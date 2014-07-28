@@ -1,9 +1,9 @@
 === DX Shortcode Freezer ===
-Contributors: nofearinc
-Tags: plugin, base, startup, skeleton, stub
+Contributors: nofearinc, devrix
+Tags: shortcode, generate, static, content, page
 Requires at least: 3.1
-Tested up to: 3.3.1
-Stable tag: 0.8
+Tested up to: 3.9.1
+Stable tag: 1.0
 License: GPLv2 or later
 
 Converting all static shortcodes to their static representation at the moment of generation. This plugin could alter your database posts.
